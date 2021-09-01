@@ -1,0 +1,113 @@
+C:\Users\georg\PycharmProjects\pythonProject\venv\Scripts\python.exe "C:/Users/georg/Documents/εργασιες/Ευφυείς Πράκτορες και Ρομποτικά Συστήματα/Βουρος/new_version/main.py"
+The number of agents is: 200
+The number of variables is: 426
+The number of meeting is: 100
+
+Total exclusion restrictions are: 447
+Total equality restrictions are: 871
+Total number of constraints are: 1318
+
+Number of cycles: 359
+
+Meeting with ID: 1 will take place in time interval: 0
+Meeting with ID: 2 will take place in time interval: 1
+Meeting with ID: 3 will take place in time interval: 0
+Meeting with ID: 4 will take place in time interval: 1
+Meeting with ID: 5 will take place in time interval: 0
+Meeting with ID: 6 will take place in time interval: 6
+Meeting with ID: 7 will take place in time interval: 7
+Meeting with ID: 8 will take place in time interval: 6
+Meeting with ID: 9 will take place in time interval: 7
+Meeting with ID: 10 will take place in time interval: 4
+Meeting with ID: 11 will take place in time interval: 0
+Meeting with ID: 12 will take place in time interval: 1
+Meeting with ID: 13 will take place in time interval: 7
+Meeting with ID: 14 will take place in time interval: 6
+Meeting with ID: 15 will take place in time interval: 7
+Meeting with ID: 16 will take place in time interval: 6
+Meeting with ID: 17 will take place in time interval: 0
+Meeting with ID: 18 will take place in time interval: 1
+Meeting with ID: 19 will take place in time interval: 1
+Meeting with ID: 20 will take place in time interval: 0
+Meeting with ID: 21 will take place in time interval: 7
+Meeting with ID: 22 will take place in time interval: 4
+Meeting with ID: 23 will take place in time interval: 7
+Meeting with ID: 24 will take place in time interval: 4
+Meeting with ID: 25 will take place in time interval: 1
+Meeting with ID: 26 will take place in time interval: 3
+Meeting with ID: 27 will take place in time interval: 0
+Meeting with ID: 28 will take place in time interval: 3
+Meeting with ID: 29 will take place in time interval: 1
+Meeting with ID: 30 will take place in time interval: 3
+Meeting with ID: 31 will take place in time interval: 6
+Meeting with ID: 32 will take place in time interval: 5
+Meeting with ID: 33 will take place in time interval: 7
+Meeting with ID: 34 will take place in time interval: 6
+Meeting with ID: 35 will take place in time interval: 2
+Meeting with ID: 36 will take place in time interval: 0
+Meeting with ID: 37 will take place in time interval: 2
+Meeting with ID: 38 will take place in time interval: 0
+Meeting with ID: 39 will take place in time interval: 2
+Meeting with ID: 40 will take place in time interval: 1
+Meeting with ID: 41 will take place in time interval: 5
+Meeting with ID: 42 will take place in time interval: 6
+Meeting with ID: 43 will take place in time interval: 2
+Meeting with ID: 44 will take place in time interval: 1
+Meeting with ID: 45 will take place in time interval: 5
+Meeting with ID: 46 will take place in time interval: 6
+Meeting with ID: 47 will take place in time interval: 6
+Meeting with ID: 48 will take place in time interval: 2
+Meeting with ID: 49 will take place in time interval: 0
+Meeting with ID: 50 will take place in time interval: 1
+Meeting with ID: 51 will take place in time interval: 0
+Meeting with ID: 52 will take place in time interval: 2
+Meeting with ID: 53 will take place in time interval: 5
+Meeting with ID: 54 will take place in time interval: 7
+Meeting with ID: 55 will take place in time interval: 5
+Meeting with ID: 56 will take place in time interval: 6
+Meeting with ID: 57 will take place in time interval: 1
+Meeting with ID: 58 will take place in time interval: 0
+Meeting with ID: 59 will take place in time interval: 5
+Meeting with ID: 60 will take place in time interval: 6
+Meeting with ID: 61 will take place in time interval: 0
+Meeting with ID: 62 will take place in time interval: 1
+Meeting with ID: 63 will take place in time interval: 5
+Meeting with ID: 64 will take place in time interval: 6
+Meeting with ID: 65 will take place in time interval: 6
+Meeting with ID: 66 will take place in time interval: 5
+Meeting with ID: 67 will take place in time interval: 0
+Meeting with ID: 68 will take place in time interval: 7
+Meeting with ID: 69 will take place in time interval: 6
+Meeting with ID: 70 will take place in time interval: 6
+Meeting with ID: 71 will take place in time interval: 5
+Meeting with ID: 72 will take place in time interval: 5
+Meeting with ID: 73 will take place in time interval: 5
+Meeting with ID: 74 will take place in time interval: 2
+Meeting with ID: 75 will take place in time interval: 1
+Meeting with ID: 76 will take place in time interval: 7
+Meeting with ID: 77 will take place in time interval: 7
+Meeting with ID: 78 will take place in time interval: 2
+Meeting with ID: 79 will take place in time interval: 7
+Meeting with ID: 80 will take place in time interval: 6
+Meeting with ID: 81 will take place in time interval: 7
+Meeting with ID: 82 will take place in time interval: 6
+Meeting with ID: 83 will take place in time interval: 1
+Meeting with ID: 84 will take place in time interval: 2
+Meeting with ID: 85 will take place in time interval: 1
+Meeting with ID: 86 will take place in time interval: 7
+Meeting with ID: 87 will take place in time interval: 0
+Meeting with ID: 88 will take place in time interval: 7
+Meeting with ID: 89 will take place in time interval: 0
+Meeting with ID: 90 will take place in time interval: 1
+Meeting with ID: 91 will take place in time interval: 1
+Meeting with ID: 92 will take place in time interval: 5
+Meeting with ID: 93 will take place in time interval: 7
+Meeting with ID: 94 will take place in time interval: 2
+Meeting with ID: 95 will take place in time interval: 2
+Meeting with ID: 96 will take place in time interval: 2
+Meeting with ID: 97 will take place in time interval: 5
+Meeting with ID: 98 will take place in time interval: 5
+Meeting with ID: 99 will take place in time interval: 2
+Meeting with ID: 100 will take place in time interval: 2
+Maximum size of message is: 3600
+Number of messages: 398

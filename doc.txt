@@ -1,0 +1,73 @@
+####DPOP implementation####
+
+
+###Explanation for running main.py, dpop.py, udp.py files:
+
+These file were implemented, run and tested in PyCharm Professional 2020.3.
+
+To run the implementation of DPOP algorithm you should place a "DCOP_Problem_N" file in the same folder with 
+main.py, dpop.py, udp.py files. These last files should always be in the same folder. When running main.py file means that
+the averall algorithm begins to run. 
+
+Inside the folder "code", there are 4 files: "main.py", "dpop.py", "udp.py" and "generator.py". It is important to be mentioned that
+our generator produce agents whom IDs start from 0. 
+If you want to run the algorithm with this kind of DCOP_Problem_N.txt file (you can find these files following the path 
+"examples"--> "generated problems"), you have to put "DCOP_Problem_N" inside the folder "code" and run the
+"main.py" file which is inside this folder.
+
+Also, it is needed to have your system ports from 38001 to 38001+N open and free in order DPOP algorithm with N agents.
+
+The produced results is only printed at screen, not in a file. 
+
+If you have any problem with pygraphviz library you can make lines 286 to 310 as comments with no problem, but the
+visualizations of contraint graph and pseudotree will not be created.   
+
+
+Dependencies of main.py, dpop.py, udp.py:
+
+Used python version = 3.8.5
+
+Libraries:
+
+numpy 1.19.2
+pygraphviz 1.5
+
+
+Modules:
+
+json
+pathlib
+socket
+threading
+time
+
+
+
+####Explanation for running generator.py file:
+
+This file was implemented, run and tested in PyCharm Professional 2020.3.
+
+To determine the number of agents in "generator.py" file, you can change the value of variable N in line 242.
+
+The exported file which the running produce, will be placed in the same folder with "generator.py" file and will be named as
+"DCOP_Problem_N", where N will be replaced with the selected number of agents.
+
+If you have any problem with pygraphviz library you can make lines 247 to 255 as comments with no problem, but the
+visualization of hierarchy tree will not be created. 
+
+
+Dependencies of generator.py:
+
+Used python version = 3.8.5
+
+Libraries:
+
+pygraphviz 1.5
+
+
+Modules:
+
+math
+random
+sys
+

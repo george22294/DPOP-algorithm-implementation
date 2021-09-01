@@ -1,0 +1,64 @@
+The number of agents is: 100
+The number of variables is: 200
+The number of meeting is: 50
+
+99
+
+Total exclusion restrictions are: 200
+Total equality restrictions are: 380
+Total number of constraints are: 580
+
+Number of cycles: 153
+
+Meeting with ID: 1 will take place in time interval: 0
+Meeting with ID: 2 will take place in time interval: 7
+Meeting with ID: 3 will take place in time interval: 1
+Meeting with ID: 4 will take place in time interval: 0
+Meeting with ID: 5 will take place in time interval: 0
+Meeting with ID: 6 will take place in time interval: 1
+Meeting with ID: 7 will take place in time interval: 6
+Meeting with ID: 8 will take place in time interval: 7
+Meeting with ID: 9 will take place in time interval: 0
+Meeting with ID: 10 will take place in time interval: 1
+Meeting with ID: 11 will take place in time interval: 0
+Meeting with ID: 12 will take place in time interval: 1
+Meeting with ID: 13 will take place in time interval: 5
+Meeting with ID: 14 will take place in time interval: 6
+Meeting with ID: 15 will take place in time interval: 5
+Meeting with ID: 16 will take place in time interval: 7
+Meeting with ID: 17 will take place in time interval: 5
+Meeting with ID: 18 will take place in time interval: 6
+Meeting with ID: 19 will take place in time interval: 0
+Meeting with ID: 20 will take place in time interval: 2
+Meeting with ID: 21 will take place in time interval: 2
+Meeting with ID: 22 will take place in time interval: 1
+Meeting with ID: 23 will take place in time interval: 5
+Meeting with ID: 24 will take place in time interval: 6
+Meeting with ID: 25 will take place in time interval: 5
+Meeting with ID: 26 will take place in time interval: 7
+Meeting with ID: 27 will take place in time interval: 5
+Meeting with ID: 28 will take place in time interval: 2
+Meeting with ID: 29 will take place in time interval: 6
+Meeting with ID: 30 will take place in time interval: 5
+Meeting with ID: 31 will take place in time interval: 6
+Meeting with ID: 32 will take place in time interval: 5
+Meeting with ID: 33 will take place in time interval: 6
+Meeting with ID: 34 will take place in time interval: 0
+Meeting with ID: 35 will take place in time interval: 1
+Meeting with ID: 36 will take place in time interval: 6
+Meeting with ID: 37 will take place in time interval: 5
+Meeting with ID: 38 will take place in time interval: 5
+Meeting with ID: 39 will take place in time interval: 0
+Meeting with ID: 40 will take place in time interval: 5
+Meeting with ID: 41 will take place in time interval: 7
+Meeting with ID: 42 will take place in time interval: 7
+Meeting with ID: 43 will take place in time interval: 6
+Meeting with ID: 44 will take place in time interval: 6
+Meeting with ID: 45 will take place in time interval: 7
+Meeting with ID: 46 will take place in time interval: 0
+Meeting with ID: 47 will take place in time interval: 1
+Meeting with ID: 48 will take place in time interval: 7
+Meeting with ID: 49 will take place in time interval: 6
+Meeting with ID: 50 will take place in time interval: 7
+Maximum size of message is: 3600
+Number of messages: 198

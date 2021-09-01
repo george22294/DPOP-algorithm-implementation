@@ -11,8 +11,8 @@ the averall algorithm begins to run.
 
 Inside the folder "code", there are 4 files: "main.py", "dpop.py", "udp.py" and "generator.py". It is important to be mentioned that
 our generator produce agents whom IDs start from 0. 
-If you want to run the algorithm with this kind of DCOP_Problem_N.txt file (you can find these files following the path 
-"examples"--> "generated problems"), you have to put "DCOP_Problem_N" inside the folder "code" and run the
+If you want to run the algorithm with this kind of "DCOP_Problem_N" file (you can find these files following the path 
+"examples/generated problems"), you have to put "DCOP_Problem_N" inside the folder "code" and run the
 "main.py" file which is inside this folder.
 
 Also, it is needed to have your system ports from 38001 to 38001+N open and free in order DPOP algorithm with N agents.

@@ -37,7 +37,7 @@ The _overall utility_ (_i_U_) of each agent is the sum of all _m_i_U_ which it "
 - Based on such a problem, a constrained graph is produced:
 <img src="https://github.com/george22294/DPOP-algorithm-implementation/blob/main/examples/constraints%20graphs/constraints_graph_20.png">
 
-- Next, the pseudotree is created running a DFS search on the constrained graph:
+- Next, the pseudotree is created by running a DFS search on the constrained graph:
 <img src="https://github.com/george22294/DPOP-algorithm-implementation/blob/main/examples/pseudotrees/pseudotree_20.png">
 
 - Then, taking into account the pseoudotree, the procedures of UTIL and VALUE propagation are executed until the end of the algorithm.
@@ -56,4 +56,4 @@ A possible drawback of our out-of-the-box solution might be the uncertainty of t
 For more insights about our generator and DPOP approach, please read the "DPOP_report.pdf" .
 
 ## Running the algorithm
-You can find useful information 
+You can find useful information about running the python scripts (which are located in "code" directory) in "doc.txt" file.
